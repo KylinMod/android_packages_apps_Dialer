@@ -739,7 +739,7 @@ public class DialerDatabaseHelper extends SQLiteOpenHelper {
                         tmp += pinyin.toLowerCase(Locale.ENGLISH);
                         /**
                          *Add a " " to make pinyin words like English
-                         *like ÕÅÈý to pinyin Zhang San
+                         *like å¼ ä¸‰ to pinyin Zhang San
                          *As English John Smith to John Smith
                          */
                         tmp += " ";
