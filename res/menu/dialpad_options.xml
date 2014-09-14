@@ -29,9 +29,4 @@
         android:title="@string/add_wait"
         android:showAsAction="withText"
         android:orderInCategory="1" />
-    <item
-        android:id="@+id/menu_speeddial"
-        android:title="@string/speeddial_title"
-        android:showAsAction="withText"
-        android:orderInCategory="1" />
 </menu>
